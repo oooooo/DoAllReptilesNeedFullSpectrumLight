@@ -1,7 +1,5 @@
 # [Index: Do ALL Reptiles NEED FULL Spectrum Light? | Dr. Frances Baines](https://hackmd.io/@ZO2MyW0NRDSyMlEjLJzEcA/indexDoALLReptilesNEEDFULLSpectrumLight)
-
 影片： [Do All Reptiles Need Full Spectrum Light?](https://youtu.be/EhbDx11OMfM)
-
 > 可以使用自動翻譯中文來觀看內容：影片角落的 "齒輪圖示 (影片功能設定)" > 字幕 > 自動翻譯 > 繁體中文
 
 - [0. 節目資訊欄 `Infobox`](https://hackmd.io/KYYNKWPTRBW-p5BLwRC89g)
@@ -42,10 +40,10 @@
   - 標題
   - 內文
   - 清單縮排
-  - 引用
-  - 等寬字
   - 加上連結
   - 插入圖片
+  - 引用
+  - 等寬字
   - ...
 - hackmd markdown 的用法
   - #標籤
@@ -57,8 +55,6 @@
   - 中英對照
   - 時間軸 `15:38`
   - 圖說格式 >
-
-
 -->
 
 ###### tags: `DoAllReptilesNeedFullSpectrumLight` `ig`
